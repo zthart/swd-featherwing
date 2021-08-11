@@ -39,6 +39,6 @@ You could install it right-side-up without issue - I just wanted to try out this
 
 ## Where to get
 
-This project is available on (OSH Park)[https://oshpark.com/shared_projects/2qjpftBr] if you don't mind a purple solder mask. 
+This project is available on [OSH Park](https://oshpark.com/shared_projects/2qjpftBr) if you don't mind a purple solder mask. 
 3 of these bad boys can be yours for about $9.
 I highly recommend buying the parts from Adafruit - the same parts can be had elsewhere, potentially even for a small discount, but Adafruit is a great company and I'm happy to support them.
