@@ -1,0 +1,11 @@
+
+# Kicad stuff
+
+### Gerbers - should be regenerated based on fab needs
+*/gerbers/
+*/gerbers*.zip
+
+### Autosave/Backup files. Good locally, not good for source control
+*/*.kicad_pcb-bak
+*/*.sch-bak
+*/_autosave*
